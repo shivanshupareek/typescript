@@ -14,6 +14,12 @@ hope you are
 
 that's nice to know
 
-hope this owrk now
+hope this work now
+
+and it should
 
 */
+
+let x = 0;
+x = 0;
+console.log(x);
