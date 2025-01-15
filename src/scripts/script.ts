@@ -19,9 +19,3 @@ hope this work now
 and it should
 
 */
-
-class NewWorld(): number {
-  const hello: number = 0;
-  return hello;
-}
-console.log(newWorld());

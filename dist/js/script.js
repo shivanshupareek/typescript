@@ -19,13 +19,3 @@ hope this work now
 and it should
 
 */
-var NewWorld = /** @class */ (function () {
-    function NewWorld() {
-    }
-    return NewWorld;
-}());
-(function () {
-    var hello = 0;
-    return hello;
-});
-console.log(newWorld());
