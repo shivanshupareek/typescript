@@ -19,8 +19,9 @@ hope this work now
 and it should
 
 */
-function newWorld(): number {
-  const hello = 0;
+
+function newWorld() {
+  const hello: number = 0;
   return hello;
 }
 console.log(newWorld());
