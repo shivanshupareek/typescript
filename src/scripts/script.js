@@ -19,6 +19,8 @@ hope this work now
 and it should
 
 */
-var x = 0;
-x = 0;
-console.log(x);
+function newWorld() {
+    var hello = 0;
+    return hello;
+}
+console.log(newWorld());

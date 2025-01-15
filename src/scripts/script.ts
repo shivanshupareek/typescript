@@ -19,7 +19,8 @@ hope this work now
 and it should
 
 */
-
-let x = 0;
-x = 0;
-console.log(x);
+function newWorld(): number {
+  const hello = 0;
+  return hello;
+}
+console.log(newWorld());
