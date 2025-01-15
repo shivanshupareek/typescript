@@ -20,7 +20,7 @@ and it should
 
 */
 
-function newWorld() {
+class NewWorld(): number {
   const hello: number = 0;
   return hello;
 }
